@@ -1,0 +1,150 @@
+[
+    {
+        "domain": ".google.com",
+        "expiry": 1696575948,
+        "httpOnly": true,
+        "name": "__Secure-3PSIDCC",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "AEf-XMQ3Ypp4PWr1ZhT-F3yG7vZK3fnqKSQsxyyFUcaNtHG7ZNoFcr5_ihGpCzU8eN12e04MGw"
+    },
+    {
+        "domain": ".google.com",
+        "expiry": 1696575948,
+        "httpOnly": true,
+        "name": "__Secure-1PSIDCC",
+        "path": "/",
+        "secure": true,
+        "value": "AEf-XMTuHZsExq4f8BrPebCeYHLiKTrGjJsQcdg17JozZwH39L7C3_xKDy13xTvEf3EhJkmN"
+    },
+    {
+        "domain": ".google.com",
+        "expiry": 1696575948,
+        "httpOnly": false,
+        "name": "SIDCC",
+        "path": "/",
+        "secure": false,
+        "value": "AEf-XMRjnSZo3s-Hwa0c1nR4nrPYzTwxnqZo_Pbx3Cx7MtJtlM1FfFWi1BO3lEyxTxhDj7C-oA"
+    },
+    {
+        "domain": ".google.com",
+        "expiry": 1699599938,
+        "httpOnly": false,
+        "name": "__Secure-3PAPISID",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "36Owm2ZM_W-LR4DV/ADxNPyLigt5K7Pmnp"
+    },
+    {
+        "domain": ".google.com",
+        "expiry": 1699599938,
+        "httpOnly": false,
+        "name": "__Secure-1PAPISID",
+        "path": "/",
+        "secure": true,
+        "value": "36Owm2ZM_W-LR4DV/ADxNPyLigt5K7Pmnp"
+    },
+    {
+        "domain": ".colab.research.google.com",
+        "expiry": 1665039979,
+        "httpOnly": false,
+        "name": "_gat",
+        "path": "/",
+        "secure": false,
+        "value": "1"
+    },
+    {
+        "domain": ".colab.research.google.com",
+        "expiry": 1699599942,
+        "httpOnly": false,
+        "name": "_ga",
+        "path": "/",
+        "secure": false,
+        "value": "GA1.4.2115188744.1665039920"
+    },
+    {
+        "domain": ".google.com",
+        "expiry": 1699599938,
+        "httpOnly": false,
+        "name": "SAPISID",
+        "path": "/",
+        "secure": true,
+        "value": "36Owm2ZM_W-LR4DV/ADxNPyLigt5K7Pmnp"
+    },
+    {
+        "domain": ".google.com",
+        "expiry": 1699599938,
+        "httpOnly": false,
+        "name": "APISID",
+        "path": "/",
+        "secure": false,
+        "value": "TALBZrHmsyUcdAu-/APX2McvpbW_0QTybG"
+    },
+    {
+        "domain": ".google.com",
+        "expiry": 1699599938,
+        "httpOnly": true,
+        "name": "SSID",
+        "path": "/",
+        "secure": true,
+        "value": "Ak9q5lyHA-uxDQ0SV"
+    },
+    {
+        "domain": ".colab.research.google.com",
+        "expiry": 1665126342,
+        "httpOnly": false,
+        "name": "_gid",
+        "path": "/",
+        "secure": false,
+        "value": "GA1.4.1209134446.1665039920"
+    },
+    {
+        "domain": ".google.com",
+        "expiry": 1699599938,
+        "httpOnly": true,
+        "name": "__Secure-3PSID",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "PAiDNaH6FUHlXc21KnUKDVnP_AF9UgUm3pK5QieXwuGX43ob0I3NwQmUIttBUVod4_RUZQ."
+    },
+    {
+        "domain": ".google.com",
+        "expiry": 1699599938,
+        "httpOnly": false,
+        "name": "SID",
+        "path": "/",
+        "secure": false,
+        "value": "PAiDNaH6FUHlXc21KnUKDVnP_AF9UgUm3pK5QieXwuGX43obzeSWNTYlYt0kQXEEVCxY4A."
+    },
+    {
+        "domain": ".google.com",
+        "expiry": 1699599938,
+        "httpOnly": true,
+        "name": "__Secure-1PSID",
+        "path": "/",
+        "secure": true,
+        "value": "PAiDNaH6FUHlXc21KnUKDVnP_AF9UgUm3pK5QieXwuGX43obAvTot3fnZRuc7ZysNT09aQ."
+    },
+    {
+        "domain": ".google.com",
+        "expiry": 1699599938,
+        "httpOnly": true,
+        "name": "HSID",
+        "path": "/",
+        "secure": false,
+        "value": "A8mkgU82IJhyKEZrQ"
+    },
+    {
+        "domain": ".google.com",
+        "expiry": 1680851138,
+        "httpOnly": true,
+        "name": "NID",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "511=Hw7tT12O-diRlb8DRbBe89qCXT5JolaL6wI06I1mYNkYp9Jy15IHKjfxi5JdCGoIOA66J3H81X4bZQcottPaDbZaCsvLjZ_clOYsf5AGm2taCkd1ZnnZTwESLPYH-6KJoJQWvEwcyHnA-OKkTteu58wBgXffQ59kC-yPui7xwp9MRfz_s9sHYl5iDNWwoTRJeYPJTQFU6C0E_2AT"
+    }
+]
